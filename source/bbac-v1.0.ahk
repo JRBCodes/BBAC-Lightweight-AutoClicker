@@ -41,7 +41,7 @@ cpsToFile(*) {
     CpsGUI.Hide()
 }
 
-clickMouse(*) {
+clickMouse(*) { ; Not sure why I even created this function.
     Click
 }
 
