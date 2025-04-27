@@ -1,8 +1,9 @@
-# BBAC Lightweight Auto Clicker
+# ![BBAC Icon](assets/bbac1.ico)BBAC Lightweight Auto Clicker
 A Lightweight low-precision autoclicker for Windows.  
 It only has 1 function, to automatically click.  
 
-The only GUI it has is to modify the CPS in which it operates.
+The only GUI it has is to modify the CPS in which it operates.<br><br>
+<img src="assets/ChangeCPSGUI.png" width=20%>
 
 ## Hotkeys
 <table>
