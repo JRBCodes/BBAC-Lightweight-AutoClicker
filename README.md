@@ -16,11 +16,11 @@ The only GUI it has is to modify the CPS in which it operates.<br><br>
     <td>Toggle autoclick.</td>
   </tr>
   <tr>
-    <td><b>Alt + m</b></td>
+    <td><b>Alt + M</b></td>
     <td>Open GUI which enables user to change default CPS.</td>
   </tr>
   <tr>
-    <td><b>Alt+X</b></td>
+    <td><b>Alt + X</b></td>
     <td>Close script.</td>
   </tr>
 </table>
